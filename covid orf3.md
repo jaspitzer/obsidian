@@ -1,0 +1,5 @@
+- one of the [[covid]] proteins 
+- thought to be a viropirin
+- only characterised in SARS-CoV1 
+- only encoded in human pathogenic coronaviruses
+-

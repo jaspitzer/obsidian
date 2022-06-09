@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "4e2df731b06f268a",
+    "type": "split",
+    "children": [
+      {
+        "id": "36d3263ad3a17385",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AIM2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd31b1785a018b56",
+    "type": "split",
+    "children": [
+      {
+        "id": "15dfe6d87c2fea5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fb95f77de56cb51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "67849647fb1a36a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Zombie",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63f2bef91fe51447",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e092d4ce9c47e1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca845fc2fdcaf03e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AIM2.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "36d3263ad3a17385",
+  "lastOpenFiles": [
+    "AIM2.md",
+    "CD16.md",
+    "pyroptosis.md",
+    "NLRP3.md",
+    "fcyR mediated infection of monocytes activates inflammation.md",
+    "covid orf8.md",
+    "FACS.md",
+    "covid orf3.md",
+    "covid antibody responses.md",
+    "covid n protein.md"
+  ]
+}
