@@ -1,0 +1,6 @@
+- characterised by a disfucntion of the macrophage monocyte compartment
+	- [[Inflammation by monocytes]]
+- --> promotes inflammation 
+- recurtrent bouts of fever, debilitating local and systemic inflammation 
+- often responsive to IL-1beta blockade, for example through IL-1RA
+- poor response to [[TNFa]]

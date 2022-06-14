@@ -21,10 +21,10 @@ https://www.nature.com/articles/s41586-022-04702-4
 - the pateints showed increases in [[Inflammation by monocytes#inflammation markers]] except IL-17, however, no increase in IFN 
 - all patients show increase in [[pyroptosis#Pyroptosis markers]] when compared with healthy donors  
 	- IL-1beta still low, but significantly increase
-	- il-1RA significantly increase
+	- [[il-1RA]] significantly increase
 
 - patients were staged using the [[MGH COVID Acuity scale]]
-- staging lead to divergence, with more severe patients showing increased GSDMD LDH, IL-1RA and IL-18
+- staging lead to divergence, with more severe patients showing increased GSDMD LDH, [[IL-1RA]] and IL-18
 
 ## Monocytes have activated inflammasomes
 - to check for pyroptosis, NLRP3 components were investigeted freshly isolated monocytes from pateints, healthy donors and non covid patients
