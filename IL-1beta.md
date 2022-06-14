@@ -13,3 +13,5 @@
 - decoy receptor [[IL-1RII]] and, in the brain, [[IL-1RAcP#IL-1RAcPb]]
 - decoy signalling, i.e. blockage of receptor occurs through [[IL-1RA]]
 - 
+
+- stimulates [[tcells]] to differentiate into [[il-17]] producing cells 
