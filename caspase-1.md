@@ -4,4 +4,7 @@
 - becomes active through [[inflammasome]]
 - cleaves [[pro-IL-1beta]] into [[IL-1beta]]
 - also [[gasdermin D]]
-- 
+
+
+
+source: https://pubmed.ncbi.nlm.nih.gov/21304099/

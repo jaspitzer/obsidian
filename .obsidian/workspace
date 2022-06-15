@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "fcyR mediated infection of monocytes activates inflammation.md",
+            "file": "EBAG9.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fcyR mediated infection of monocytes activates inflammation.md",
+                "file": "EBAG9.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "36d3263ad3a17385",
   "lastOpenFiles": [
-    "fcyR mediated infection of monocytes activates inflammation.md",
-    "Antibody responses to SARS-CoV-2 in patients with COVID-19.md",
-    "il-17.md",
-    "IL-1beta.md",
-    "IL-1beta processing.md",
-    "caspase-1.md",
-    "IL-1RA.md",
-    "IL-1RAcP.md",
-    "covid n protein.md",
-    "covid orf3.md"
+    "EBAG9.md",
+    "CD16.md",
+    "LPS.md",
+    "TLR4.md",
+    "bacteria.md",
+    "clostridium difficile.md",
+    "TcdB.md",
+    "MHCII.md",
+    "antigen presentation.md",
+    "MHCI.md"
   ]
 }

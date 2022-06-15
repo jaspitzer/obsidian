@@ -1,0 +1,7 @@
+-[[iii-meeting]] sergio castro 
+- concussion, head trauma, desceleration all cause truma 
+- happens in coordination with inflammatory response in the brain
+- sterile inflammation 
+- maybe [[NLRP3]] pathway is involved 
+- in nlrp3 kos, the lesions are smaller
+-  nlrp3 is essential for asc specks and microglial activation

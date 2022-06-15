@@ -8,4 +8,7 @@
 - lowers the activity of il-1beta
 - does not recruit myd88 and associated kinases 
 - partial signalling takes place ? 
-- 
+
+
+
+source: https://pubmed.ncbi.nlm.nih.gov/21304099/

@@ -1,0 +1,3 @@
+- Jade family phd finger 2; 
+- part of [[histone acetyltransferase complex]]
+- involved in acetylation of [[histones]]

@@ -15,3 +15,6 @@
 - 
 
 - stimulates [[tcells]] to differentiate into [[il-17]] producing cells 
+
+
+source: https://pubmed.ncbi.nlm.nih.gov/21304099/

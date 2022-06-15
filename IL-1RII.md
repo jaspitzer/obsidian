@@ -6,4 +6,7 @@
 - present mostly on macrophages and b cells
 - also known as the decoy receptor 
 - induced by [[dexamethasone]]
-- 
+
+
+
+source: https://pubmed.ncbi.nlm.nih.gov/21304099/
