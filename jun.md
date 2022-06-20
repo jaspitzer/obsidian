@@ -1,0 +1,6 @@
+- family of transcription factors
+- dimerise with members of the [[FOS family]]
+- multiple members
+	- [[JUN]]
+	- [[JUNB]]
+	- [[JUND]]

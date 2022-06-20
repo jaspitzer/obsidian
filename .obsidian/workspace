@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EBAG9.md",
+            "file": "AP-1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EBAG9.md",
+                "file": "AP-1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "36d3263ad3a17385",
   "lastOpenFiles": [
+    "AP-1.md",
+    "TLR4.md",
+    "FOS family.md",
+    "jun.md",
     "EBAG9.md",
     "CD16.md",
     "LPS.md",
-    "TLR4.md",
     "bacteria.md",
     "clostridium difficile.md",
-    "TcdB.md",
-    "MHCII.md",
-    "antigen presentation.md",
-    "MHCI.md"
+    "TcdB.md"
   ]
 }
