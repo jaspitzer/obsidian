@@ -5,3 +5,4 @@
 	- [[FOSB]]
 	- [[FOSL1]]
 	- [[FOSL2]]
+- unable to build homodimers 

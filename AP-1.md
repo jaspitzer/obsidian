@@ -1,2 +1,3 @@
-- is made up of [[FOS family]] and [[jun]] heteroe dimers 
+- is made up of [[FOS family]] and [[jun]] hetero dimers 
+- can also make up homodimers 
 - 
