@@ -1,0 +1,7 @@
+- is a is a [[PRR]] responsible for a [[type 1 ifn]] response 
+- detects a variety of viruses
+- detects dsRNA in the cytoplams 
+- signals via [[MAVS]]
+- encoded by DDX58
+- induces transcription via [[TBK1]], [[irf3]] and [[IRF7]]
+- induces [[ifnalpha]] and [[ifnbeta]]

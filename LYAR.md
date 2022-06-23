@@ -1,0 +1,7 @@
+- satand for LY 1 antibody reactive
+- a nuclear protein
+- associated with RNA pre proccessing and negative regulation of antiviral innate immune responses
+	- https://pubmed.ncbi.nlm.nih.gov/31413131/
+	- targets phospho-[[irf3]]
+- induced by [[ifnbeta]]
+- inhibits the expression of proinflammatory cytokine through [[nfkappab]]

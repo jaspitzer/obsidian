@@ -7,12 +7,8 @@
         "id": "36d3263ad3a17385",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "cgas sting in alzheimers.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cgas sting in alzheimers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +83,15 @@
   },
   "active": "36d3263ad3a17385",
   "lastOpenFiles": [
-    "cgas sting in alzheimers.md",
+    "covid nsp1.md",
+    "RIG-I.md",
+    "type 1 ifn.md",
     "cgas sting pathwqay.md",
-    "RFX5.md",
-    "AP-1.md",
-    "TLR4.md",
-    "FOS family.md",
-    "jun.md",
-    "EBAG9.md",
-    "CD16.md",
-    "LPS.md"
+    "cgas sting in alzheimers.md",
+    "MAVS.md",
+    "covid.md",
+    "LYAR.md",
+    "covid n protein.md",
+    "covid e protein.md"
   ]
 }

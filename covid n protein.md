@@ -1,3 +1,4 @@
 - one of the [[covid]] proteins
 - can be used as a measure of infection in vaccinated populations, as the vaccines only mediate anti [[covid spike protein]] immunity
 - some commonalities between different corono viruses can lead to false positives in protein/antibody measurements, as common cold also is a coronovirus
+- is entagled in a preprint with 

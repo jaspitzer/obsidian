@@ -1,0 +1,9 @@
+- one of the [[covid]] proteins 
+- thought to be a viropirin
+- only characterised in SARS-CoV1 
+- only encoded in human pathogenic coronaviruses
+- when overexpressed, it activates [[NLRP3]] in [[monocytes]]
+	- talking about Sars-CoV1 here
+	- similar result shave been published in a preprint in epithelial cells
+- ORF3a of sars-cov1 can interact with [[ASC]] to result in polyubiquitinylation and speck formation 
+- 
