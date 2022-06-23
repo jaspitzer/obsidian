@@ -1,0 +1,12 @@
+{
+  "choices": [],
+  "macros": [
+    {
+      "name": "asd",
+      "id": "b4214f22-ec6b-4eeb-84a0-c0fe6f017817",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}
