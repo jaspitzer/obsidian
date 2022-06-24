@@ -1,0 +1,7 @@
+[pml nuclear bodies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857171/#:~:text=PML%20nuclear%20bodies%20are%20matrix,tight%20association%20with%20cellular%20disorders.) 
+[ciita and pml ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2849471/)
+[nucleosome eviction at the mhc2 locus](https://pubmed.ncbi.nlm.nih.gov/19264803/)
+[psmc5 at the ciita and mhc2 loci](https://pubmed.ncbi.nlm.nih.gov/19660582/)
+[ctfc and mhc2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2937552/)
+[preprint ctcf covid](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8312896/)
+[severe covid ctcf](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02669-z)

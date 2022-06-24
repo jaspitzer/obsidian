@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "36d3263ad3a17385",
+        "id": "73ee34d8e818cea2",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -81,17 +81,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "36d3263ad3a17385",
+  "active": "73ee34d8e818cea2",
   "lastOpenFiles": [
-    "covid nsp1.md",
-    "RIG-I.md",
-    "type 1 ifn.md",
-    "cgas sting pathwqay.md",
-    "cgas sting in alzheimers.md",
-    "MAVS.md",
-    "covid.md",
-    "LYAR.md",
-    "covid n protein.md",
-    "covid e protein.md"
+    "MHCII.md",
+    "need to read.md",
+    "nihms247890f1 (1).jpg.md",
+    "Sug1.md",
+    "MHCI.md",
+    "MHC2_locus.png.jpg",
+    "METTL7a.md",
+    "CTCF.md",
+    "H3K4me2.md",
+    "PML.md"
   ]
 }
