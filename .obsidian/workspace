@@ -7,8 +7,12 @@
         "id": "73ee34d8e818cea2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "need to read.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "need to read.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +88,15 @@
   },
   "active": "73ee34d8e818cea2",
   "lastOpenFiles": [
-    "MHCII.md",
     "need to read.md",
+    "monocytes.md",
+    "HLX.md",
+    "MHCII.md",
     "nihms247890f1 (1).jpg.md",
     "Sug1.md",
     "MHCI.md",
     "MHC2_locus.png.jpg",
     "METTL7a.md",
-    "CTCF.md",
-    "H3K4me2.md",
-    "PML.md"
+    "CTCF.md"
   ]
 }
