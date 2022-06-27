@@ -1,0 +1,18 @@
+- ist a histone modification present on [[histone 3]]
+- produces sharp peaks flanking the TSS
+- intensitiy correlates with transcriptional activity
+- the biggest peak maps to the 5' end of the body of active genes
+	- associated with unmethylated cpg islands 
+- also a dominant peak is at the end of the first exon, at the site of the 5' splice site 
+- facilitates transcription initiation 
+- is read by H3K4me3 reader [[TAF]]3 as part of transcriptional initiation 
+- also read by [[PHF23]], which recruits the chromatin modification machinery
+	- recruits [[sin3_hdac]] or [[KDM5B]] and [[ING proteins]]
+- also linked to DNA damage and repair
+- stable for ours or even days 
+- is modified through lysine methyltransferases ([[KMT]]s)
+- read by [[CXXC1]], which targets TSS that lack CpG islands 
+- inhibition of proteasome can lead to spread of H3K4me3 into the gene body 
+	- could work through the rapid deubiquitinylation of histone, allows uH2B independent KMT to facility the trimethylation
+	- [source](https://doi.org/10.1016%2FS0021-9258%2817%2949885-1)
+- 

@@ -4,12 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "73ee34d8e818cea2",
+        "id": "36d3263ad3a17385",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "need to read.md",
+            "file": "COMPASS_MLL.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8d9130b09f6add4d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "H3K4me3.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "669b5073b2a15420",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ING proteins.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "need to read.md",
+                "file": "ING proteins.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +110,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "73ee34d8e818cea2",
+  "active": "669b5073b2a15420",
   "lastOpenFiles": [
-    "need to read.md",
-    "monocytes.md",
-    "HLX.md",
-    "MHCII.md",
-    "nihms247890f1 (1).jpg.md",
-    "Sug1.md",
-    "MHCI.md",
-    "MHC2_locus.png.jpg",
-    "METTL7a.md",
-    "CTCF.md"
+    "ING proteins.md",
+    "H3K4me3.md",
+    "COMPASS_MLL.md",
+    "class 1 deacetylase.md",
+    "PHF23.md",
+    "H3K4me2.md",
+    "HDAC2.md",
+    "sin3_hdac.md",
+    "HDAC1.md",
+    "KMT.md"
   ]
 }

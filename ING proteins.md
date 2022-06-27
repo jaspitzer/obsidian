@@ -1,0 +1,5 @@
+-  stands for inhibitor of growth
+- serve as epigenetic reades that recruit [[HAT]]s or [[class 1 deacetylase|HDAC]]
+- alter local chromatin structure
+- knowckout show strong immune phenotypes in ING1 and ING4
+- ING1, ING2 and ING4 show an effect on [[apoptosis]]

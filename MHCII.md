@@ -5,7 +5,6 @@ aliases: [MHC2, mhcii]
 	- constitutively expressed 
 - inducible on fibroblasts, epithelial cells and andothelial cells follow exposure of cytokines such as [[ifngamma]]
 
-
 - loading mostly through [[phagocytosis]], presentation of external antigens to cd4+ t cells
 
 
@@ -42,6 +41,7 @@ aliases: [MHC2, mhcii]
 	- multiple roles for of acetylation 
 	- [source1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1360741/)
 	- [source2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC153210/)
+- histone acetylation on histone 4 over a large (>5kb) domain upstream of the TSS is observed afert ifn gamma stimulus
 
 #### methylation
 - associates with [[COMPASS_MLL]], with several of the component also being pulled down 
@@ -52,7 +52,7 @@ aliases: [MHC2, mhcii]
 	- together, these factors suggest a mechanism of transcriptional memory of chromosomal restructuring with long lasting effects 
 
 #### other 
-- remodelling of nucleosome structure by [[SWI_SNF]] complex and nucleosome eviction at the w-x-y box was importatn for proper expression 
+- remodelling of nucleosome structure by [[SWI_SNF]] complex and nucleosome eviction at the w-x-y box was important for proper expression 
 	- apparently, the establishment of a nucleosome free promotor region usually happens through strong nucleosome positioning signals 
 	- in this case, it happens through factor binding to the w-x-y box
 - [[CTCF]] can bind to sites C1 and XL9, flanking the HLA-DRA locus, which is required for robust expression 
@@ -62,3 +62,9 @@ aliases: [MHC2, mhcii]
 
 
 ![[regulation_mhc2_locus.jpg]]
+
+
+## Promotors and enhancers 
+- has a enhancer just downstream of the promotor region (-100 bp)
+- a secondary enhancer lires -2.3 kb downstream of the TSS
+- lacks the classical [[TATA-box]] amnd/or similar initiator sequences 

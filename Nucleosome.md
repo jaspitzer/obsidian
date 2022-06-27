@@ -1,0 +1,15 @@
+- is the basic building block of eukaryotic chromatin 
+- consists of 137 bp of DNA wrapped around anoctamer of histones
+	- histone 3
+	- histone 4
+	- histone 2a 
+	- histone 2b
+- packlaging of DNa into nucleosome restricts access to the DNA for transcription factors adn the like 
+- in general, nucleosomes are depleted surrounding the promotor regions of genes, including their TSS 
+- also, specific enhancers deplete nucleosomes near their binding site 
+- factors for nucleosome depletion:
+	- dna structure
+	- assembly of the preinitiation complex containing  [[RNA pol 2]]
+	- binding sequence of certain TFs
+	- chromatin remodeling 
+	- 

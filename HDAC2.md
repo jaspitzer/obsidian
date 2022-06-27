@@ -2,3 +2,4 @@
 - histone deacetylase 2
 - deacetylates  [[ciita]] and targets it for degradation
 	- https://pubmed.ncbi.nlm.nih.gov/19720744/
+- can form the [[sin3_hdac]] complex 
