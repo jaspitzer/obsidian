@@ -1,0 +1,8 @@
+- is a [[ING proteins]]
+- is a member of  the [[MYST]] complex together with [[HBO1]]
+- KO shows strong immune phenotype 
+- shown to interact with [[JADE2]] in the context of the myst complex
+- interaction with [[rela]] was shown
+	- might be inhibiting in that context
+- ing4 defecient mice are shown to be hypersensitive to LPS
+	- leads to higher cytokines in response to [[LPS]] and [[nfkappab]]

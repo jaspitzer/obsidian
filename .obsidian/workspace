@@ -9,31 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "COMPASS_MLL.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "8d9130b09f6add4d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "H3K4me3.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "669b5073b2a15420",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ING proteins.md",
+            "file": "MHCII.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ING proteins.md",
+                "file": "MHCII.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +86,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "669b5073b2a15420",
+  "active": "36d3263ad3a17385",
   "lastOpenFiles": [
+    "MHCII.md",
+    "need to read.md",
+    "covid nsp1.md",
     "ING proteins.md",
     "H3K4me3.md",
+    "KMT.md",
     "COMPASS_MLL.md",
-    "class 1 deacetylase.md",
-    "PHF23.md",
-    "H3K4me2.md",
-    "HDAC2.md",
-    "sin3_hdac.md",
-    "HDAC1.md",
-    "KMT.md"
+    "Untitled.md",
+    "MYST.md",
+    "MOZ_morf.md"
   ]
 }

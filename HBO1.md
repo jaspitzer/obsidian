@@ -1,0 +1,9 @@
+- a [[HAT]] in the [[MYST]] family 
+- is recruited by [[ING4]] and interacts with [[JADE2]]
+- coordinates acetylation of [[nfkappab]] and [[p53]]
+- involved in a large number of pathways 
+- discovered in the context of DNA replication
+- responsible for histone 4 acetylation 
+- present in 2 seperate complexes:
+	- one qwith ING5 and one with [[ING4]]
+	- 

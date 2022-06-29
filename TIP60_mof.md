@@ -1,0 +1,13 @@
+- is the catalytoc center of the [[NuA4 complex]]
+- well characterised involvement in transcriptional regulation 
+- co-activator for several proteins
+	- hormone receptors
+	- beta-catenin
+	- [[nfkappab]]
+	- [[c-myc]]
+	- [[E2F]]
+- required for [[apoptosis]] induction through [[p53]] acetylation
+- involved in double strand DNA repair through acetylation of [[ATM]] 
+	- ATM rapidly phosphorylates a large number of proteins, and starting signalling cascades 
+	- lead to cell cycle arrest and apoptosis 
+	- 

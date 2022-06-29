@@ -8,6 +8,8 @@
 - is read by H3K4me3 reader [[TAF]]3 as part of transcriptional initiation 
 - also read by [[PHF23]], which recruits the chromatin modification machinery
 	- recruits [[sin3_hdac]] or [[KDM5B]] and [[ING proteins]]
+	- read by  [[ING proteins|ING]] proteins
+- bound by several [[HAT]]s 
 - also linked to DNA damage and repair
 - stable for ours or even days 
 - is modified through lysine methyltransferases ([[KMT]]s)
