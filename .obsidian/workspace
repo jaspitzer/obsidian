@@ -4,25 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "36d3263ad3a17385",
+        "id": "091cc3ba33558231",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IRF1.md",
+            "file": "dexamethasone.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
       },
       {
-        "id": "c474b2269a760b88",
+        "id": "bb75469ed53346f7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "need to read.md",
+            "file": "CD163.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -81,14 +83,35 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "need to read.md",
+                "file": "CD163.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c9fd2f1dd4916649",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a05089aae28c8c91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CD163.md"
               }
             }
           }
@@ -98,17 +121,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c474b2269a760b88",
+  "active": "bb75469ed53346f7",
   "lastOpenFiles": [
-    "need to read.md",
-    "IRF1.md",
-    "type 1 ifn.md",
-    "IFNAR.md",
-    "type 3 IFN.md",
-    "type 2 ifn.md",
-    "ifngamma.md",
-    "Bromodomain family.md",
-    "covid orf8.md",
-    "JADE2.md"
+    "CD163.md",
+    "dexamethasone.md",
+    "IL-10.md",
+    "ING proteins.md",
+    "EBAG9.md",
+    "il-17.md",
+    "IL-1RII.md",
+    "GR.md",
+    "CCL5.md",
+    "Annexin A1.md"
   ]
 }

@@ -1,0 +1,6 @@
+- transcriptional corepressor complex 
+- has three parts, namely corest1-3
+- first characterised as a partner of the  [[REST_NRSF]] repressor complex
+- coopartion with [[LSD1]]
+- can also include [[HDAC1]] and [[HDAC2]]
+- 
