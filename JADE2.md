@@ -1,3 +1,6 @@
 - Jade family phd finger 2; 
-- part of [[histone acetyltransferase complex]]
+- part of [[MYST]] complex
 - involved in acetylation of [[histones]]
+- e3-ligase 
+- leads to degradation of [[LSD1]] after [[dexamethasone]] treatment 
+- 

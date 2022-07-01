@@ -1,0 +1,14 @@
+---
+aliases: [lysine-specific demethylase-1, lysine specific demethylase 1, lysine-specific demethylase 1, KDM1A]
+---
+- member of the oxidase family 
+- catalysies the demthylation of lysine side chain on proteins, including [[H3K4me3]] and [[H3K4me2]]
+- is involved in a variety of different pathways
+	- stem cell maintenance
+	- development
+	- carcinogenisis 
+- suppresses OXPHOS epigeneticly through h3k4 demethylation 
+	- [source](https://pubmed.ncbi.nlm.nih.gov/22453831)
+- is degraded through [[JADE2]] in the context of [[dexamethasone]] treatment 
+- involved in metabolic control --> expression inhibits [[oxphos]]
+- 

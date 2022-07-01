@@ -1,0 +1,7 @@
+- includes the [[ifnlambda]] family 
+- also show JAK-STAT signalling 
+- bind IFNLR1 and IL-10R2
+- expression of IFNLR1 is restricted to mucosal surfaces
+- mediates viral control at these sites 
+- delayed expression in comparison to [[type 1 ifn]]
+- seperate and distinct from [[type 1 ifn]]s, with different functions 

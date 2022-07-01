@@ -1,0 +1,4 @@
+- a family of IFNs 
+- includes [[ifnalpha]] and [[ifnbeta]]
+- bind the [[IFNAR]]
+- induces [[IRF1]]

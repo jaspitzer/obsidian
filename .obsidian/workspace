@@ -6,10 +6,63 @@
       {
         "id": "36d3263ad3a17385",
         "type": "leaf",
+        "dimension": 20.07936507936508,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MHCII.md",
+            "file": "IRF1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3430a30b2f6b4c36",
+        "type": "leaf",
+        "dimension": 20.07936507936508,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "type 3 IFN.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7ae5c26bee201947",
+        "type": "leaf",
+        "dimension": 20,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IFNAR.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "16019c31bc0b9f30",
+        "type": "leaf",
+        "dimension": 20.07936507936508,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "type 1 ifn.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8aa0317a82e7ceb7",
+        "type": "leaf",
+        "dimension": 19.761904761904763,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "type 2 ifn.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MHCII.md",
+                "file": "IRF1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +141,15 @@
   },
   "active": "36d3263ad3a17385",
   "lastOpenFiles": [
-    "MHCII.md",
-    "need to read.md",
-    "covid nsp1.md",
-    "ING proteins.md",
-    "H3K4me3.md",
-    "KMT.md",
-    "COMPASS_MLL.md",
-    "Untitled.md",
-    "MYST.md",
-    "MOZ_morf.md"
+    "IRF1.md",
+    "type 1 ifn.md",
+    "IFNAR.md",
+    "type 3 IFN.md",
+    "type 2 ifn.md",
+    "ifngamma.md",
+    "Bromodomain family.md",
+    "covid orf8.md",
+    "JADE2.md",
+    "BRD4.md"
   ]
 }
