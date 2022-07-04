@@ -1,3 +1,8 @@
+---
+tags:
+ - protein/toxin
+ - organism/bacterium
+---
 - toxin block [[rho]], [[rac]] and [[cdc42]]
 - also causes deregulation of the cytosol
 

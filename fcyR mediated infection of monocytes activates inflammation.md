@@ -1,3 +1,7 @@
+---
+tags:
+ - paper/read
+---
 Key points: 
 - [[monocytes]] are infected via anti sars antibodies using FcgammaR
 - [[covid]] Infection is not productive, but is aborted through [[NLRP3]], [[gasdermin D]] leading to pyroptosis

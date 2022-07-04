@@ -1,3 +1,7 @@
+---
+tags:
+ - protein
+---
 - BH3 interacting domain death agonist; 
 - heterodimerises with BAX (agonist) or BCL2 (antagonist) --> regulator of [[apoptosis]]; 
 - mediator of mitochondrial damage caused by CASP-8; 

@@ -1,3 +1,7 @@
+---
+tags:
+ - protein/signalling/transcription_factor
+---
 - a transcription factor of the interferon response factor (IRF) family 
 - promotes an antiviral state
 - enhances and induces expression of [[ifnbeta]] and [[ifnlambda]]

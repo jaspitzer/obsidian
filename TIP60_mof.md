@@ -1,3 +1,7 @@
+---
+tags:
+ - protein
+---
 - is the catalytoc center of the [[NuA4 complex]]
 - well characterised involvement in transcriptional regulation 
 - co-activator for several proteins

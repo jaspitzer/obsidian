@@ -1,3 +1,7 @@
+---
+tags:
+ - protein/signalling/receptor
+---
 - is the alternate receptor for [[IL-1beta]]
 - gene symbol is IL1RN 
 - also known as anakinra 

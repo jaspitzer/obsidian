@@ -1,5 +1,8 @@
 ---
 aliases: [lysine methyltransferases, kmts]
+tags:
+ - protein_family
+ - protein/histone_modifier/methyltransferase
 ---
 - several pairs exist in contrast to the yeast Set1
 	- KMT2a/KMT2B

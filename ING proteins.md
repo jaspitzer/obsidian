@@ -1,5 +1,8 @@
 ---
 aliases: [ING]
+tags:
+ - protein_family
+ - protein/histone_modifier/readers
 ---
 
 ![[41388_2007_Article_BF1210608_Fig4_HTML.jpg]]

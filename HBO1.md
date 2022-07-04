@@ -1,3 +1,7 @@
+---
+tags:
+ - protein/histone_modifier/acetyltransferase
+---
 - a [[HAT]] in the [[MYST]] family 
 - is recruited by [[ING4]] and interacts with [[JADE2]]
 - coordinates acetylation of [[nfkappab]] and [[p53]]

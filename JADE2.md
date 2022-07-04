@@ -1,3 +1,7 @@
+---
+tags:
+ - protein/histone_modifier
+---
 - Jade family phd finger 2; 
 - part of [[MYST]] acetyl transferase complex
 - involved in acetylation of [[histones]]

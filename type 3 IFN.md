@@ -1,3 +1,8 @@
+---
+tags:
+ - protein_/_family
+ - protein/cytokine
+---
 - includes the [[ifnlambda]] family 
 - also show JAK-STAT signalling 
 - bind IFNLR1 and IL-10R2

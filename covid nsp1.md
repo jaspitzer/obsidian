@@ -1,3 +1,8 @@
+---
+tags:
+ - organism/virus/coronoviridae/sars_cov2
+ - protein
+---
 - a [[covid]] protein
 - nsp == non structural protein
 - also called the shut- off protein, as it inhibtis [[translation]] via interaction with the 40S subunit of the ribosome

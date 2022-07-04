@@ -1,3 +1,7 @@
+---
+tags:
+ - protein
+---
 - satand for LY 1 antibody reactive
 - a nuclear protein
 - associated with RNA pre proccessing and negative regulation of antiviral innate immune responses

@@ -1,3 +1,8 @@
+---
+tags:
+ - protein/ciita
+ - antigen_presentation
+---
 - transcriptional coactivator of [[MHCII]] protein
 - only found as mRNA in cells expressing [[MHCII]]
 - thought to work in combination with [[RFX5]]

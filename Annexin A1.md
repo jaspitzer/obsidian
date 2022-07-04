@@ -1,5 +1,7 @@
 ---
 aliases: [lipocortin-1, lipocortin 1]
+tags: 
+ - protein/signalling/effector
 ---
 - induced by [[dexamethasone|glucocorticoids]] in [[monocytes]] and [[macrophages]]
 - antiinflammatory mediator 

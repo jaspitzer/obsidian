@@ -1,5 +1,9 @@
 ---
 aliases: [MHC2, mhcii]
+tags:
+ - protein_complex
+ - protein/signalling
+ - antigen_presentation
 ---
 - present on [[monocytes]] and other [[APC]]s, such as [[ b cells]]
 	- constitutively expressed 
@@ -27,13 +31,14 @@ aliases: [MHC2, mhcii]
 
 #### acetylation
 - multiple complexes are recruited to the MHCii promotors 
-- histone 4 acetylation following  [[ifngamma]] treatment cccured in parallel with RNApol2 recruitment, preceeding transcriptional initiation
+- [[histone 4]] acetylation following  [[ifngamma]] treatment cccured in parallel with [[RNA pol 2|rnapol2]] recruitment, preceeding transcriptional initiation
 	- H4Ac
-- histone 3 acetylation increased with production of mRNA und were dependent on RNApol2
+- [[histone 3]] acetylation increased with production of mRNA and were dependent on RNApol2
 	- H3Ac
 - [[CBP_p300 ]] functions as a [[HAT]] which is recruited to the locus by [[CIITA]]
 	- similar mechanisms for [[PCAF]] and [[GCN5]]
-- these recuited acetyltransferases work as part of the [[ATAC]]  and [[STAGA]] complexes, which are resposible for the the activation associated marks at the promotors 
+- these recuited acetyltransferases work as part of the [[ATAC]]  and [[SAGA]] complexes, which are resposible for the the activation associated marks at the promotors 
+	- the STAGA form of the SAGA complex is involved here
 - atpase [[Sug1]] is required for increased acetylation or mark stability  at the mhc2 promotors
 	- also recuits cbp to mhc2 genes
 	- [source](https://pubmed.ncbi.nlm.nih.gov/18662994/)

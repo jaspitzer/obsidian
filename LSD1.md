@@ -1,5 +1,7 @@
 ---
 aliases: [lysine-specific demethylase-1, lysine specific demethylase 1, lysine-specific demethylase 1, KDM1A]
+tags:
+ - protein/histone_modifier/demethylase
 ---
 - member of the oxidase family 
 - catalysies the demthylation of lysine side chain on proteins, including [[H3K4me3]] and [[H3K4me2]]

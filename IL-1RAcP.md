@@ -1,3 +1,7 @@
+---
+tags:
+ - protein/signalling/receptor
+---
 - serves as a coreceptor for IL-1alpha, IL-1beta, IL-36 and IL-33
 - necessary for successful signalling 
 - _IL1RAP_ is the gene symbol 

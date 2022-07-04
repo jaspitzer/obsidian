@@ -1,3 +1,9 @@
+---
+tags:
+ - protein/prr
+ - cytosolic
+ - protein/signalling/receptor
+---
 - is a is a [[PRR]] responsible for a [[type 1 ifn]] response 
 - detects a variety of viruses
 - detects dsRNA in the cytoplams 

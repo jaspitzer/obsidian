@@ -1,5 +1,8 @@
 ---
 aliases: [brg1 associated factors, BAF, PBAF]
+tags:
+ - protein_complex
+ - protein/histone_modifier/
 ---
 - a family of chromatin remodellers 
 - in humans, the SCMARCA family is the most prominent

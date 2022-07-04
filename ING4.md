@@ -1,3 +1,7 @@
+---
+tags:
+ - protein/histone_modifier/readers
+---
 - is a [[ING proteins]]
 - is a member of  the [[MYST]] complex together with [[HBO1]]
 - KO shows strong immune phenotype 

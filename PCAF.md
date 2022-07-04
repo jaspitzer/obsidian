@@ -1,5 +1,7 @@
 ---
 aliases: [P300/CBP-associated factor, PCAF, KAT2B]
+tags:
+ - protein
 ---
 
 - P300/CBP-associated factor

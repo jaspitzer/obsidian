@@ -1,5 +1,8 @@
 ---
 aliases: [histone acetyltransferase, HAT, KAT, lysine acetyltransferase]
+tags:
+ - protein_family
+ - protein/histone_modifier/acetyltransferase
 ---
 - group of proteins that add acetyl residues to other proteins histones or lysine residues of histones
 - the opposite reaction is mediated by [[class 1 deacetylase|HDAC]]s

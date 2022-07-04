@@ -1,5 +1,8 @@
 ---
 aliases: [NR3C1, glucocorticoid receptor]
+tags:
+ - protein/signalling/receptor
+ - protein/transcription_factor
 ---
 - receptor for [[dexamethasone]] 
 - also known as NR3C1

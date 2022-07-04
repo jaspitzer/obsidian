@@ -1,3 +1,7 @@
+---
+tags:
+ - protein/signalling/receptor
+---
 - a recepptor for [[IL-1beta]]
 - gene symbol: IL1R2
 - a receptor analouge of IL-1RI, but lacks the TIR domain, so no attachment of myd88

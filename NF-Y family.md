@@ -1,3 +1,7 @@
+---
+tags:
+ - protein_family
+---
 - members include [[nf-ya]], [[nf-yb]] and [[nf-yc]]
 - recognise the Y box element upstream of promotor regions 
 	- motif is also called the CCAAT-Box 

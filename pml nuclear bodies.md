@@ -1,5 +1,6 @@
 ---
 aliases: [PML-NBs, pml nbs, pml nuclear bodies]
+tags: concept
 ---
 matrix associated domains
 - recruit a variety of different proteins

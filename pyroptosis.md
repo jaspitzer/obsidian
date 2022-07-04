@@ -1,3 +1,8 @@
+---
+tags:
+ - process
+ - concept
+---
 # Pyroptosis markers
 ## GSDMD
 - is cleaved by activated caspase-1

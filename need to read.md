@@ -1,3 +1,7 @@
+---
+tags:
+ - paper/need_to_read
+---
 [pml nuclear bodies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857171/#:~:text=PML%20nuclear%20bodies%20are%20matrix,tight%20association%20with%20cellular%20disorders.) 
 [ciita and pml ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2849471/)
 [nucleosome eviction at the mhc2 locus](https://pubmed.ncbi.nlm.nih.gov/19264803/)

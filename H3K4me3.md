@@ -1,3 +1,7 @@
+---
+tags:
+ - protein/histone
+---
 - ist a histone modification present on [[histone 3]]
 - produces sharp peaks flanking the TSS
 - intensitiy correlates with transcriptional activity

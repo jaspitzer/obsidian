@@ -1,3 +1,8 @@
+---
+tags:
+ - process
+ - pathway
+---
 detection of DNA in the cytoplasm 
 [[cgas]] works as the detect
 a type of [[PRR]]

@@ -1,4 +1,9 @@
-- characterised by a disfucntion of the macrophage monocyte compartment
+---
+tags:
+ - disease
+ - process
+---
+- characterised by a dysfunction of the macrophage monocyte compartment
 	- [[Inflammation by monocytes]]
 - --> promotes inflammation 
 - recurtrent bouts of fever, debilitating local and systemic inflammation 

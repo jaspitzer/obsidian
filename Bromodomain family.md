@@ -1,5 +1,8 @@
 ---
 aliases: [BRD family]
+tags:
+ - protein_family
+ - protein/histone_modifier/readers
 ---
 - family of acetylbinding proteins 
 - readers of the histone code 

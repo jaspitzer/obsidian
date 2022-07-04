@@ -1,3 +1,7 @@
+---
+tags:
+ - protein/transcription_factor
+---
 - family of transcription factors
 - dimerise with members of the [[FOS family]]
 - also present as homodimers

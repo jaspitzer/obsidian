@@ -1,3 +1,8 @@
+---
+tags:
+ - protein
+ - transcription/repressor
+---
 - transcriptional repressor 
 - interacts with [[SMAD]]s
 - survival factor in [[monocytes]]

@@ -1,3 +1,7 @@
+---
+tags:
+ - protein/cytokine
+---
 #### Sepsis
 - used as a target of sepsis trials using [[IL-1RA]] as a way to dampen the effect of IL-1beta
 - lead to reduction, but not significant across multiple trials 

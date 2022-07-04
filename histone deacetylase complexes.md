@@ -1,7 +1,12 @@
+---
+tags:
+ - protein_complex
+ - protein/histone_modifier/deacetylase
+---
 ![[hdac1_2_complexes.png]]
 - several complexes exist, with different compositions and specificities
 
-## Tether to DNA thorugh TFs 
+## Tether to DNA through TFs 
 - [[sin3_hdac]] consists of sin3, [[HDAC1]], [[HDAC2]], [[RbAp46]], [[RBaP48]],  Sds3, sap30 and sap18
 - the [[NuRD complex]] consists of  [[HDAC1]], [[HDAC2]], [[RbAp46]], [[RBaP48]], [[p66]], MTa, MBD and [[CHD4]]
 

@@ -1,5 +1,8 @@
 ---
 aliases: [Mi-2_nurd, nucleosome remodeling deacetylase, NuRD]
+tags:
+ - protein_complex
+ - protein/histone_modifier
 ---
 - a group of chromatin remodelers and histone deacetylases
 - contains both [[HDAC1]] and [[HDAC2]]

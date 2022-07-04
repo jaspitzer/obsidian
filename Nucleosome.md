@@ -1,3 +1,9 @@
+---
+tags:
+ - protein_complex
+ - protein
+ - concept
+---
 - is the basic building block of eukaryotic chromatin 
 - consists of 137 bp of DNA wrapped around anoctamer of histones
 	- histone 3

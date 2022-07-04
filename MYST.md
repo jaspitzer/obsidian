@@ -1,3 +1,9 @@
+---
+tags:
+ - protein_family
+ - protein_complex
+ - protein/histone_modifier/acetyltransferase
+---
 - family of [[HAT]]s
 - members include [[TIP60_mof]], [[MOZ_morf]] and [[HBO1]]
 

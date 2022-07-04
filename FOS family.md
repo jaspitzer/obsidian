@@ -1,3 +1,8 @@
+---
+tags:
+ - protein_family
+ - protein/signalling/transcription_factor
+---
 - a family of transcription factors 
 - combine with [[jun]] and for the [[AP-1]] TF
 - made up of multiple members 

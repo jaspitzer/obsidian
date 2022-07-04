@@ -1,6 +1,12 @@
+---
+tags:
+ - cell_type
+---
 - originate in the bone marrow and migrate through the bloodstream 
 - can differentiate into [[macrophages]] or [[dendritic cells ]]
 - powerful producers of cytokines and chemokines
+- generally, they are fairly short lived in the blood stream
+- differentiation in [[macrophages]] or [[dendritic cells]] is dependent upon anti-apoptotic and survival signals 
 # monocyte subtypes
 ## classical monocytes 
 - [[CD14]] high, [[CD16]] - 

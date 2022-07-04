@@ -1,5 +1,8 @@
 ---
 aliases: [Compass complex, MLL complex]
+tags:
+ - protein_complex
+ - protein/histone_modifier/methyltransferase
 ---
 
 - a complex [[HMT|histone methyltransferase]] made up of a large group of proteins

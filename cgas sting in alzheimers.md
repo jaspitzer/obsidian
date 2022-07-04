@@ -1,3 +1,9 @@
+---
+tags:
+ - process
+ - disease
+ - pathway
+---
 [[cgas sting pathwqay]]
 
 form of [[neurodegeneration]] 

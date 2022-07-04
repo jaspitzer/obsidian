@@ -1,5 +1,7 @@
 ---
 aliases: [CCCTC binding factor, CTCF site]
+tags:
+ - protein/CTCF
 ---
 - a zinc-finger dna binding protein 
 - can homodimerise and thus for long range DNA loops between CTCF sites 

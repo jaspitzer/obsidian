@@ -1,5 +1,8 @@
 ---
 aliases: [ifngamma, ifn tpye 2, ifn type II]
+tags:
+ - protein_family
+ - protein/cytokine
 ---
 - only has one member, IFN gamma 
 - binds the IFNgamma rezeptor [[IFNGR]]

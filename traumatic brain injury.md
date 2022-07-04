@@ -1,3 +1,9 @@
+---
+tags:
+ - concept
+ - disease
+ - notes/meeting
+---
 -[[iii-meeting]] sergio castro 
 - concussion, head trauma, desceleration all cause truma 
 - happens in coordination with inflammatory response in the brain

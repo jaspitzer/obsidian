@@ -1,3 +1,7 @@
+---
+tags:
+ - method
+---
 # Zombie yellow 
 - small fixible die, staining cells with damaged plasma membranes
 # Annexin V

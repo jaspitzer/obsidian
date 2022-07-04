@@ -1,5 +1,7 @@
 ---
 aliases: [PSMC5]
+tags: 
+ - protein/ciita
 ---
 - component of the 19S proteasome in the nucleus 
 - associates with acetylated [[histone 3]] 

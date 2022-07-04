@@ -1,5 +1,10 @@
 ---
 aliases: [transcription factor II d, transcriptionfactor2d]
+tags:
+ - protein/transcription_factor
+ - protein_complex
+ - transcription/activator
+ - transcription/initiation
 ---
 - is part of the rna pol 2 preinitiation complex
 - binds the TATA-box or initiator, a downstream promotr or the like

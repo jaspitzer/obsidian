@@ -1,3 +1,8 @@
+---
+tags:
+ - disease
+ - organism/virus/coronoviridae/sars_cov2
+---
 monocyte inflammation  in covid 
 https://pubmed.ncbi.nlm.nih.gov/32661059/
 
