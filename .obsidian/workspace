@@ -28,19 +28,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "3d6767d409967179",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "GCN5.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TFIID.md",
+                "file": "dexamethasone.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,24 +111,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TFIID.md"
+                "file": "dexamethasone.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a6520a6b4031122b",
+  "active": "091cc3ba33558231",
   "lastOpenFiles": [
-    "TFIID.md",
     "dexamethasone.md",
+    "TFIID.md",
+    "GCN5.md",
     "MHCII.md",
     "TFTC.md",
     "SAGA.md",
-    "GCN5.md",
     "TBP.md",
     "RNA pol 2.md",
     "RNApol2.md",

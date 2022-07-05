@@ -28,7 +28,9 @@ tags:
 - does not influence il-1b, ccl2, ccl3 and Cxcl10 expression --> other mechanism 
 - inhibition of antigen presentation on [[MHCII|MHC2]] due to inhibition of binding of [[XBP1]] to the X box in the mhc2 locus 
 	- mechanism seems to be simple blockage of x box, could also target RFX5
-#### histone related emchanisms
+
+
+#### histone related mechanisms
 - transcriptional repression of Il-8 or GM-CSF involves [[histone 4]] deacetylation by[[HDAC2]]
 -  GC upregulates [[SAP30]], a member of the [[sin3_hdac]] repressor complex on both protein and mRNA level
 
