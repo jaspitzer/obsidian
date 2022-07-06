@@ -1,5 +1,5 @@
 ---
-tags: in/paper state/process
+tags: 
 aliases:
   - { { VALUE:title } }
 abstract: >

@@ -83,4 +83,3 @@ async function handleCitationsPlugin(params, citationsPlugin, settings) {
 function replaceIllegalFileNameCharactersInString(string) {
     return string.replace(/[\\,#%&\{\}\/*<>$\'\":@]*/g, '');
 }
-

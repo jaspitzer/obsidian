@@ -1,53 +1,39 @@
 {
   "choices": [
     {
-      "id": "45989611-16c6-486b-9136-e9acf0a612cc",
-      "name": "add paper",
-      "type": "Template",
+      "id": "39bed837-19a2-4b13-83cb-e3c50b309dc6",
+      "name": "testing",
+      "type": "Macro",
       "command": true,
-      "templatePath": "templates/template_citation.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "{{VALUE:title}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "Reading notes"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false
-      },
-      "appendLink": false,
-      "incrementFileName": false,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default"
+      "macroId": "dc336122-6610-4af4-b3a4-4f0e8a9e61d6"
+    },
+    {
+      "id": "d34c9cc9-698b-4ab7-b2a2-5b3d5beaf113",
+      "name": "add paper",
+      "type": "Macro",
+      "command": true,
+      "macroId": "dc336122-6610-4af4-b3a4-4f0e8a9e61d6"
     }
   ],
   "macros": [
     {
       "name": "add paper",
-      "id": "dccc2d32-29ee-4380-9dbd-f08177b463ff",
+      "id": "3866b228-39f4-4c0e-9663-a2cf03e00049",
       "commands": [
         {
           "name": "citations",
           "type": "UserScript",
-          "id": "640179c7-9d7f-4671-bf9c-49fa216b5a00",
+          "id": "87b4cb94-2f8e-409d-8736-3b2ad65ffd64",
           "path": "scripts/citations.js",
           "settings": {}
         },
         {
-          "name": "template_citation",
+          "name": "citatinos_template",
           "type": "NestedChoice",
-          "id": "2b095cb5-bd0e-4a49-b1c3-ed7821c335c9",
+          "id": "98212172-73d9-425a-a869-ffe2815425c1",
           "choice": {
-            "id": "481f2a0f-671f-452f-8f94-43333e5d629f",
-            "name": "template_citation",
+            "id": "19d96964-d160-4fc4-9f57-577e3c5bd848",
+            "name": "citatinos_template",
             "type": "Template",
             "command": false,
             "templatePath": "templates/template_citation.md",
@@ -74,6 +60,57 @@
         }
       ],
       "runOnStartup": true
+    },
+    {
+      "name": "testing",
+      "id": "750f5c46-8367-4382-8259-a59239b480e3",
+      "commands": [],
+      "runOnStartup": false
+    },
+    {
+      "name": "paper_note",
+      "id": "dc336122-6610-4af4-b3a4-4f0e8a9e61d6",
+      "commands": [
+        {
+          "name": "citations",
+          "type": "UserScript",
+          "id": "2e3836c7-b749-48c6-b59e-7b9023e020c9",
+          "path": "scripts/citations.js",
+          "settings": {}
+        },
+        {
+          "name": "paper note template",
+          "type": "NestedChoice",
+          "id": "0331ab15-a29c-4aa4-9c08-38a497ded040",
+          "choice": {
+            "id": "59815e84-7e3a-4e59-bd52-d9e9f1f5385a",
+            "name": "paper note template",
+            "type": "Template",
+            "command": false,
+            "templatePath": "templates/template_citation.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:title}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false
+            },
+            "appendLink": false,
+            "incrementFileName": false,
+            "openFileInNewTab": {
+              "enabled": true,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
     }
   ],
   "inputPrompt": "single-line"
