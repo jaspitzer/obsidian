@@ -2,7 +2,7 @@
   "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
   "literatureNoteFolder": "Reading notes",
-  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\ntags:\n---\n# {{title}}   \nPublished {{year}} in {{containerTitle}}\n\n\n## Abstract\n \n {{abstract}}\n\n\n---\n## key points:\n\n\n---\n\n\n## Notes: \n\n\n---",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
   "citationExportPath": "Library.bib"

@@ -8,7 +8,6 @@ tags:
 [psmc5 at the ciita and mhc2 loci](https://pubmed.ncbi.nlm.nih.gov/19660582/)
 [ctfc and mhc2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2937552/)
 [preprint ctcf covid](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8312896/)
-[severe covid ctcf](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02669-z)
 [irf1 and chromatin](https://www.cell.com/cell-reports/pdf/S2211-1247%2821%2900205-9.pdf)
 [irf1 antivirals](https://www.frontiersin.org/articles/10.3389/fimmu.2019.01019/full)
 [LSD1 in mono to macrophage transition](https://www.sciencedirect.com/science/article/abs/pii/S1001929413600279?via%3Dihub)

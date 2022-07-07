@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c75fedc8e45ad5a3",
+        "id": "2fdb228940a009c9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Antibody responses to SARS-CoV-2 in patients with COVID-19.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Zombie",
+                "query": "antibody",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299
   },
   "right": {
     "id": "63f2bef91fe51447",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Antibody responses to SARS-CoV-2 in patients with COVID-19.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -91,6 +97,22 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Antibody responses to SARS-CoV-2 in patients with COVID-19.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "275e1f46b7de5a05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "091cc3ba33558231",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -98,19 +120,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 351
   },
-  "active": "c75fedc8e45ad5a3",
+  "active": "2fdb228940a009c9",
   "lastOpenFiles": [
-    "Reading notes/@suganumaATACDoubleHistone2008.md",
-    "41388_2007_Article_BF1210608_Fig1_HTML.jpg",
+    "Antibody responses to SARS-CoV-2 in patients with COVID-19.md",
+    "Reading notes/@wang.etal_2021.md",
+    "need to read.md",
+    "Reading notes/@stikker.etal_2021.md",
+    "histone acetyltransferase complex.md",
+    "templates/template.md",
+    "Reading notes/@stadhouders.etal_2019.md",
+    "Severe COVID-19-associated variants linked to chemokine receptor gene control in monocytes and macrophages.md",
     "Untitled.md",
-    "dexamethasone.md",
-    "Reading notes/@longAntibodyResponsesSARSCoV22020.md",
-    "CD163.md",
-    "IL-10.md",
-    "ING proteins.md",
-    "EBAG9.md",
-    "il-17.md"
+    "A compartment.md"
   ]
 }
