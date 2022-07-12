@@ -18,7 +18,8 @@ Published 2010 in Molecular and Cellular Biology
 ---
 ## key points:
 - central claim is that the restimulation with [[type 2 ifn|ifngamma]] leads to earlier and stronger [[MHCII|MHC2]] indcution, demonstrating a mechanism of transcriptional memory 
--  this memory is created through sustained H3K4me2 mark, facilitated by the [[COMPASS_MLL|MLL complex]]s [[WDR5]] subunit interaction with [[PML]] subunit 4
+-  this memory is created through sustained H3K4me2 mark, facilitated by the [[COMPASS_MLL|MLL complex]]s [[WDR5]] subunit interaction with [[PML]] isoform 4
+- interestingly, as a contrast to innate immune memory,  H3K4me3 is not the driving modification, but instead [[H3K4me2]]
 
 ---
 
@@ -30,8 +31,8 @@ Published 2010 in Molecular and Cellular Biology
 - while [[histone 3]] acetylation is the same between conditions, [[H3K4me3]] and [[CIITA]] binding ist faster and stronger in theifn primed condition
 - SspI, a restriction enzyme has a cutting site between the X and the Y box of MHC2, which only becomes accessible during transcription
 	- the site is accessible after priming and during stimulation, but not in resting cells
-- nucleosome depletion can be seen in primed and actively stimulated cells, but not in resting cells 
-- CIITA levels, histone acetylation, for both histone 3 and histone 4, and H3K4me3 all returned to baseline levels 24h after ifn stimulation 
+- [[nucleosome]] depletion can be seen in primed and actively stimulated cells, but not in resting cells 
+- [[CIITA]] levels, histone acetylation, for both histone 3 and histone 4, and H3K4me3 all returned to baseline levels 24h after ifn stimulation 
 - [[H3K4me2]] persists for days and multiple cell generations 
 - visual colocalisation of PML bodies and HLA-DRA gene was found
 - [[COMPASS_MLL|MLL complex]] is associated with [[PML]] bodies after IFN stimulus

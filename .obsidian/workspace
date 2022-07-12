@@ -4,51 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "2fdb228940a009c9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reading notes/@gialitakis.etal_2010.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f9b686f88a70cfdb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NuRD complex.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6dfa51a5e8437142",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PML.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "5d068829f4aee861",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CIITA.md",
+            "file": "Reading notes/@leimgruber.etal_2009.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f7f88f9399ec81eb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MHCII.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "85ab579dc9208ae0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Nucleosome.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -80,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pml bodes",
+                "query": "need",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PML.md",
+                "file": "Reading notes/@leimgruber.etal_2009.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,8 +124,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PML.md"
+                "file": "Reading notes/@leimgruber.etal_2009.md"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3d150d84e69c0259",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e40b0cd8de45ba9f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -147,17 +148,17 @@
     "direction": "horizontal",
     "width": 351
   },
-  "active": "6dfa51a5e8437142",
+  "active": "5d068829f4aee861",
   "lastOpenFiles": [
-    "PML.md",
-    "NuRD complex.md",
+    "Reading notes/@leimgruber.etal_2009.md",
+    "need to read.md",
+    "Nucleosome.md",
     "MHCII.md",
-    "pml nuclear bodies.md",
+    "AP-1.md",
     "Reading notes/@gialitakis.etal_2010.md",
-    "CIITA.md",
-    "type 1 ifn.md",
-    "PCAF.md",
-    "Reading notes/@lallemand-breitenbach.dethe_2010.md",
-    "need to read.md"
+    "ASH2L.md",
+    "A compartment.md",
+    "templates/template_citation.md",
+    "Reading notes/Antibody responses to SARS-CoV-2 in patients with COVID-19.md"
   ]
 }
