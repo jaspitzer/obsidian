@@ -5,11 +5,13 @@ tags:
 ---
 - transcriptional coactivator of [[MHCII]] protein
 - only found as mRNA in cells expressing [[MHCII]]
+	- induces by [[type 2 ifn|ifngamma]] in non antigen presentign cells pCAF
 - thought to work in combination with [[RFX5]]
 - recognises the complex formed by [[RFX5]], [[CREB]] and [[NF-Y family]]
 - can function as a acetyltransferase // has [[HAT]] activity
 	- [source](https://www.cell.com/molecular-cell/fulltext/S1097-2765(01)00159-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1097276501001599%3Fshowall%3Dtrue)
-- upregulatas [[MHCI]] in response to [[ifngamma]]
+- upregulates [[MHCI]] in response to [[ifngamma]]
+- short half-life with around 30 min
 
 ## post-translational modifications
 - important for functions

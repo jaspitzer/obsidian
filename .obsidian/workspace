@@ -9,7 +9,46 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Antibody responses to SARS-CoV-2 in patients with COVID-19.md",
+            "file": "Reading notes/@gialitakis.etal_2010.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f9b686f88a70cfdb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NuRD complex.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6dfa51a5e8437142",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PML.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5d068829f4aee861",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CIITA.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "antibody",
+                "query": "pml bodes",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Antibody responses to SARS-CoV-2 in patients with COVID-19.md",
+                "file": "PML.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,22 +137,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Antibody responses to SARS-CoV-2 in patients with COVID-19.md"
+                "file": "PML.md"
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "275e1f46b7de5a05",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "091cc3ba33558231",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -122,17 +147,17 @@
     "direction": "horizontal",
     "width": 351
   },
-  "active": "2fdb228940a009c9",
+  "active": "6dfa51a5e8437142",
   "lastOpenFiles": [
-    "Antibody responses to SARS-CoV-2 in patients with COVID-19.md",
-    "Reading notes/@wang.etal_2021.md",
-    "need to read.md",
-    "Reading notes/@stikker.etal_2021.md",
-    "histone acetyltransferase complex.md",
-    "templates/template.md",
-    "Reading notes/@stadhouders.etal_2019.md",
-    "Severe COVID-19-associated variants linked to chemokine receptor gene control in monocytes and macrophages.md",
-    "Untitled.md",
-    "A compartment.md"
+    "PML.md",
+    "NuRD complex.md",
+    "MHCII.md",
+    "pml nuclear bodies.md",
+    "Reading notes/@gialitakis.etal_2010.md",
+    "CIITA.md",
+    "type 1 ifn.md",
+    "PCAF.md",
+    "Reading notes/@lallemand-breitenbach.dethe_2010.md",
+    "need to read.md"
   ]
 }

@@ -11,4 +11,4 @@ tags:
 	- MBD/MBD2/MBD3 can recognize 
 	-  can also contain [[LSD1]]
 - involved in DNa dmg repair 
-- 
+- can be disrupted by [[H3K4me2]]

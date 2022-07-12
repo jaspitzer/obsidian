@@ -55,6 +55,7 @@ tags:
 	-  important for [[H3K4me2]] at the mhc2 promotors
 	- [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2849471/)
 	- together, these factors suggest a mechanism of transcriptional memory of chromosomal restructuring with long lasting effects 
+- recruitment of CARM1, a arginine methyl transferase, methylating arginine 17 on histone 3,  as well as CBP, stabilising the interaction between the 2
 
 #### other 
 - remodelling of nucleosome structure by [[SWI_SNF]] complex and nucleosome eviction at the w-x-y box was important for proper expression 
@@ -64,6 +65,7 @@ tags:
 	- 17 CTCF sites were identified within the MHC2 locus 
 	- this binding happens in the inactive state
 	- in the active state, ciita associates with the ctcf sites 
+- large scale chromatin reorganisation upon [[type 2 ifn|ifngamma]] stimulus, facilitated by STAT1 binding
 
 
 ![[regulation_mhc2_locus.jpg]]
