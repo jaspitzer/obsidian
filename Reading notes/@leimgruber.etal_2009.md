@@ -19,7 +19,8 @@ Published 2009 in Nucleic Acids Research
 	- this is, what is measured in ATAC seq, fragments of DNA so short, they are not bound to any nucleosomes
  - average nucleosome depletion is <1.5 fold to > 4 fold
 	- depends on species, genes and method 
-- 
+- measure of nucleosome occupancy by chipping against [[histone 3]] --> really fucking smart
+- nucleosome free regions within the MCH2 loci are fairly atypical by being fairly large and consistent
 
 ---
 
@@ -27,6 +28,18 @@ Published 2009 in Nucleic Acids Research
 ## Notes: 
 - upon ifn stimulation, [[RFX5]], [[CREB]], [[NF-Y family]], [[CIITA]] and [[RNApol2]] bind to the promotor region of [[MHCII|MHC2]]
 	- nf-y also binds baseline, as does CREB
-- 
+	- the strongest differences are within CIITA and RNApol2
+- CIITA KO only abrogates binding of CIITA, whereas RFX KO inhibits binding of CIITA
+- lack of nucleosomes around the TSS/promotor region is dependent on RFX and only partially on CIITA
+	- nucleosome eviction dependent on the enhancesome assembly 
+		- not enough for transcriptional initiation
+-  no change in histone modifications for this nucleosome eviction
+	- relatively interesting 
+- BRG1, part of the [[swi_snf]] complex, is important for [[MHCII|MHC2]] gene activation and is recruited to the promotor by CIITA and RFX 
+	- in the context of nucleosome eviction, BRG1 occupancy was not relevant
+- nucleosome eviction was important for all MHC2 promotors
+- the eviction of the nucleosomes plays a role in the selection of the TSS for HLA-DRA 
+- increasing the distance between the S-Y box and the TSS through the creation of inserts led to a reduction of nucleosome eviction around the TSS and subsequent reduction of expression of a reporter gene 
+	- kinda counter intuitive, as CIITA is widely recognised as the master regulator of MHC2 expression - nucleosome eviction is mostly independent of CIITA, and drives expression - goes against the curren model 
 
 ---

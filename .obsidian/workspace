@@ -17,6 +17,19 @@
         }
       },
       {
+        "id": "d7a26f342e8f3506",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "swi_snf.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
         "id": "f7f88f9399ec81eb",
         "type": "leaf",
         "state": {
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading notes/@leimgruber.etal_2009.md",
+                "file": "swi_snf.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading notes/@leimgruber.etal_2009.md"
+                "file": "swi_snf.md"
               }
             }
           }
@@ -148,17 +161,17 @@
     "direction": "horizontal",
     "width": 351
   },
-  "active": "5d068829f4aee861",
+  "active": "d7a26f342e8f3506",
   "lastOpenFiles": [
-    "Reading notes/@leimgruber.etal_2009.md",
-    "need to read.md",
-    "Nucleosome.md",
     "MHCII.md",
+    "Reading notes/@leimgruber.etal_2009.md",
+    "swi_snf.md",
+    "Nucleosome.md",
+    "need to read.md",
     "AP-1.md",
     "Reading notes/@gialitakis.etal_2010.md",
     "ASH2L.md",
     "A compartment.md",
-    "templates/template_citation.md",
-    "Reading notes/Antibody responses to SARS-CoV-2 in patients with COVID-19.md"
+    "templates/template_citation.md"
   ]
 }
